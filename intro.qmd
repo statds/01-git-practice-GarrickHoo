@@ -80,6 +80,7 @@ order). Add yours; note the syntax of nested list in Markdown.
     - Become comfortable with big data
     - Be able to use data from the web and create data sets/projects
     - create a data science project
+    - learn more about data science
 + Yan, Jun
     - Make data science more accessible to undergraduates
     - Co-develop a Quarto Book in collaboration with the students
